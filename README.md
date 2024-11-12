@@ -30,7 +30,7 @@ This Python script reads URLs from an Excel file, checks each URL's HTTP respons
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-response-checker.git
+   git clone https://github.com/deepdivesecurity/url-response-checker.git
    cd url-response-checker
    ```
 
