@@ -46,7 +46,7 @@ This Python script reads URLs from an Excel file, checks each URL's HTTP respons
     ```
 
 ## Usage
-
+Run the following in your terminal to start
     ```bash
     python url_response_checker.py
     ```
