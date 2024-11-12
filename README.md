@@ -1,7 +1,4 @@
 # http-response-code-checker
-This repo contains the script which take an Excel file of URLs and obtains the HTTP response code from each
-# URL Response Code Checker
-
 This Python script checks the HTTP status codes of URLs listed in an Excel file and outputs the results to a new Excel file. It helps automate the process of verifying the health of links.
 
 ---
@@ -49,6 +46,7 @@ This Python script reads URLs from an Excel file, checks each URL's HTTP respons
     ```
 
 ## Usage
+
     ```bash
     python url_response_checker.py
     ```
