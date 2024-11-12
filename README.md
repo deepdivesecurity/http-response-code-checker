@@ -50,6 +50,7 @@ Run the following in your terminal to start
     ```bash
     python url_response_checker.py
     ```
+    
 The script will prompt you to select an input Excel file containing the URLs and specify an output file where the results will be saved.
 
 ## Features
